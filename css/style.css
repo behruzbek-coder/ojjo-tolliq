@@ -288,3 +288,12 @@ h1 {
 .img {
       gap: none;
 }
+.li{
+      color: #FFF;
+
+}
+.newslettor__info{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
