@@ -1,0 +1,290 @@
+* {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      list-style: none;
+}
+
+
+.container {
+      max-width: 1220px;
+      padding: 0 10px;
+      margin: 0 auto;
+}
+
+html {
+      background-color: #fff;
+      margin-top: -10px;
+}
+
+body {
+      background-image: url(../imeges/bgc.png);
+      background-position: center;
+}
+
+.main {
+      background-color: #fff;
+}
+
+.nav {
+      margin-top: 10px;
+}
+
+.nav a {
+      color: white;
+}
+
+
+.nav__content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+
+.nav__content ul {
+      display: flex;
+      align-items: center;
+      gap: 27px;
+}
+
+.nav__content .svg-two {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+}
+
+
+
+.gold {
+      margin-top: 290px;
+      display: flex;
+      flex-direction: column;
+}
+
+.gold h1 {
+      color: white;
+      margin-bottom: 20px;
+}
+
+
+.gold .site-btn {
+      padding: 6px 25px;
+      background: transparent;
+      color: white;
+      border-color: white;
+      margin-left: 40px;
+}
+
+
+hr {
+      margin-top: 60px;
+}
+
+.hero-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.img {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+}
+
+
+
+.line {
+      height: 60px;
+      background: #FFF;
+      width: 2px;
+}
+
+
+
+.about {
+      background-color: #fff;
+}
+
+.about-text {
+      margin-bottom: 30px;
+      padding-top: 47px;
+}
+
+
+
+.about-text h3,
+h1 {
+      text-align: center;
+      margin-bottom: 12px;
+      color: #FFF;
+}
+
+.about-box {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+}
+
+.base-btn {
+      border-color: none;
+      background: #000;
+      color: #FFF;
+      width: 100px;
+      height: 45px;
+}
+
+.about-box img {
+      width: 180px;
+      height: 45px;
+}
+
+
+.img0 {
+      padding-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      gap: 10px;
+}
+
+
+.about-bcimg .img {
+      padding-top: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      gap: 10px;
+}
+
+
+.design {
+      padding-top: 30px;
+      background-image: url(../imeges/Rectangle\ 6.png);
+      background-repeat: no-repeat;
+}
+
+.design h3,
+h1,
+p {
+      color: white;
+
+}
+
+.design-content .box-text {
+      width: 730px;
+      text-align: center;
+}
+
+.design-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+}
+
+.design-content .box-text p {
+      margin-bottom: 10px;
+}
+
+.design .design-content .box-text h1 {
+      color: white;
+}
+
+.design-content .box-text .btn button {
+      padding-top: 5px 25px;
+      background: #fff;
+      color: #000;
+      padding-bottom: 20px;
+}
+
+
+.design .design-content .box-text .btn {
+      margin-bottom: 20px;
+}
+
+.notebook {
+      background: #FFF;
+      padding-top: 20px;
+}
+
+.container {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0 10px;
+}
+
+
+.notebook-content {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+}
+
+.notebook .container .notebook-content img {
+      width: 350px;
+      height: 350px;
+}
+
+
+.notebook .notebook-text h3,
+h1 {
+      color: #000;
+      text-align: center;
+}
+
+.notebook .ess button {
+      padding-top: 5px 7px;
+      display: flex;
+      align-items: center;
+}
+
+.notebook .container .sit-btn {
+      margin-top: 20px;
+      margin-left: 500px;
+      padding: 5px 13px;
+      background: #000000db;
+      color: #FFF;
+      border-radius: 3px;
+}
+
+
+.coat {
+      background: #fff;
+      padding-top: 40px;
+      border: 2px solid red;
+}
+
+.container {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0 10px;
+}
+
+.coat-text {
+      text-align: center;
+}
+
+.coat-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+}
+
+.design-content {
+      max-width: 1220px;
+      padding: 0 10px;
+      margin: 0 auto;
+
+
+}
+
+.design {
+      border: none;
+}
+
+.img {
+      gap: none;
+}
